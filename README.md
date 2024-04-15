@@ -8,8 +8,8 @@
 [![Gradle](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml/badge.svg)](https://github.com/prateek-chaubey/YTPro/actions/workflows/gradle.yml)
 <img alt="jsDelivr monthly hits badge" src="https://data.jsdelivr.com/v1/package/gh/prateek-chaubey/YTPro/badge">
 
-[![https://telegram.me/l7z_q](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/l7z_q)
-[![https://telegram.me/l7z_q](https://img.shields.io/badge/Telegram-@l7z_q-blue.svg?style=flat-square)](https://telegram.me/l7z_q)
+[![https://telegram.me/SOHAIL_SARKAR](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/SOHAIL_SARKAR)
+[![https://telegram.me/SOHAIL_SARKAR](https://img.shields.io/badge/Telegram-@SOHAIL_SARKAR-blue.svg?style=flat-square)](https://telegram.me/l7z_q)
 
 </div>
 
