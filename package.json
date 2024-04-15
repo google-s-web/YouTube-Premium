@@ -1,0 +1,30 @@
+{
+  "name": "ytpro",
+  "version": "3.3.48",
+  "description": "All in one YouTube App with downloader , background player and many more features.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek-chaubey/YTPro.git"
+  },
+  "keywords": [
+    "YOUTUBE",
+    "PRO",
+    "YTPRO",
+    "Youtube",
+    "Videos",
+    "Youtube Vanced",
+    "Youtube Pro",
+    "Youtube Premium",
+    "Youtube Mod"
+  ],
+  "author": "Prateek Chaubey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prateek-chaubey/YTPro/issues"
+  },
+  "homepage": "https://github.com/prateek-chaubey/YTPro#readme"
+}
